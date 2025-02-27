@@ -13,8 +13,12 @@ keçək növbəti suala
 
 5)OOP nədir və onun hansı prinsipləri var?
 
-6)İnterfeys ilə Abstrakt Class'ın arasındakı fərqlər nədir?
+6)overload nedi ve override nedi?
 
-7)
+7)İnterfeys ilə Abstrakt Class'ın arasındakı fərqlər nədir?
 
-8)Generic'ler haqqında nə bilirsiniz?
+8)Classlarin partial, sealed, static kimi keywordlari var. Onlar nə edir?
+
+9)const ilə readonly  aralarinda ne ferq var?
+
+10)что такок Generic? (зачем он нужен)
