@@ -3,22 +3,36 @@ keçək növbəti suala
 
 [Ranking system (0 - doesnt know, 1 - knows something (heard of it)), 2 - decent knowledge, 3 - perfect knowledge]
 
-1)C#-da hansı data typelar (məlumat tipləri) mövcuddur? (və hansi data type növləri var?)
+1) C#-da data typelar iki hansi əsas kateqoriyaya bölünür ve fergleri nedi?
 
-2)Value type ile Reference typein arasında ne ferq var?
+2) String data typei digər typelardan nə ilə fərqlənir?
 
-3)String data typeli haqqında nə deyə bilərsiniz , o digər data typelardan nə ilə fərqlənir?
+3) Class nedi Object nedi
 
-4)Class nedi Object nedi
+4) OOP nədir və onun hansı prinsipləri var?
 
-5)OOP nədir və onun hansı prinsipləri var?
+5) overload nedi ve override nedi?
 
-6)overload nedi ve override nedi?
+6) İnterfeys ilə Abstrakt Class'ın arasındakı fərqlər nədir?
 
-7)İnterfeys ilə Abstrakt Class'ın arasındakı fərqlər nədir?
+7) Classlarin partial, sealed, static kimi keywordlari var. Onlar nə edir?
 
-8)Classlarin partial, sealed, static kimi keywordlari var. Onlar nə edir?
+8) const ilə readonly  aralarinda ne ferq var?
 
-9)const ilə readonly  aralarinda ne ferq var?
+9) что такок Generic? (зачем он нужен)
 
-10)что такок Generic? (зачем он нужен)
+10) что такое Delegate?
+
+11) Какие коллекции вы знаете в c#?
+
+12) что такое CLR и за что он отвечает в C#
+
+13) Как происходит процесс Garbage Collection в C#
+
+14) а если это ресурсы которые не управляются средой .net и clr, то тогда как мы высвобождаем их
+
+15) что такое SOLID
+
+16) что такое dependency injection как он работает в c#
+
+17) В чем разница между параллельным и асинхронным программирование?
