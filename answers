@@ -1,1 +1,40 @@
+C# dilində data (məlumat) tipləri əsasən iki əsas kateqoriyaya bölünür:
+
+Dəyər tipləri (Value Types):
+
+Bu tiplər dəyişənlərin özündə məlumatı saxlayır. Yəni, dəyişənə dəyər təyin edildikdə, bu dəyər birbaşa həmin dəyişənə yazılır.
+Dəyər tipləri dəyişəndə və ya bir funksiyaya ötürüləndə, həmin dəyərin kopiyası ötürülür.
+Dəyər tiplərinə misallar:
+Ədəd tipləri: int, long, short, byte, decimal, float, double
+Simvol tipi: char
+Boolean tipi: bool
+Struct: struct
+Enumerations: enum
+Referans tipləri (Reference Types):
+
+Bu tiplər dəyişənlərin yaddaşda yerləşdiyi ünvanı saxlayır, yəni dəyişənə dəyər təyin edildikdə, dəyişənin yaddaş ünvanı ötürülür, yoxsa dəyər özü deyil.
+Referans tipləri dəyişəndə və ya funksiyaya ötürüləndə, həmin dəyərin istinad edildiyi ünvanı ötürülür.
+Referans tiplərinə misallar:
+Siniflər: class
+Massivlər: array
+Sözlər (Strings): string
+Delegatlar: delegate
+Interface-lər: interface
+Əsas fərqlər:
+Yaddaşın idarə olunması:
+
+Dəyər tipləri stack (yığma yaddaş) üzərində saxlanılır, buna görə də onlar tez idarə olunur.
+Referans tipləri heap (yığın yaddaş) üzərində saxlanılır, buna görə də onlara daha çox yaddaş tələb olunur və daha uzun müddət yaşayır.
+Kopyalanma:
+
+Dəyər tipləri, bir dəyişəndən digərinə təyin edilərkən kopiyalanır. Yəni, iki dəyişən müstəqil şəkildə işləyir.
+Referans tipləri isə, bir dəyişəndən digərinə təyin edilərkən, yalnız istifadə olunan ünvan (istifadəçi məkanı) ötürülür. Bu, yəni iki dəyişən eyni obyektə istinad edir və birində edilən dəyişikliklər digərini də təsir edir.
+Default dəyər:
+
+Dəyər tipləri üçün default dəyər (ilk başlanğıc dəyəri) həmin tipin ilkin qiymətidir (məsələn, 0 ədəd üçün, false boolean üçün).
+Referans tipləri üçün default dəyər null olur, çünki onlar obyektləri göstərən ünvanları saxlayır.
+Qısa xülasə:
+Dəyər tipləri məlumatı birbaşa dəyişəndə saxlayır, referans tipləri isə obyektin ünvanını saxlayır. Bu fərqlər onlara tətbiq olunan yaddaş idarəetmə və kopyalama üsullarında nəzərə çarpır.
+
+
 
